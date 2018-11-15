@@ -1,4 +1,8 @@
-Cours de M2 master MECEN université de Tours Machine Learning
+*Cours de M2 master MECEN université de Tours Machine Learning*
+
+12 séances.
+
+Soutenance par projet.
 
 # Objectifs
 
